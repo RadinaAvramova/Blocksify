@@ -1,5 +1,4 @@
 # BLOCKSIFY
-## PROJECT IS ARCHIVED
 
 Interactive web app, build using Three js, React and MobX
 
